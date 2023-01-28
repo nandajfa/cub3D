@@ -96,13 +96,22 @@ make fclean
 * Algorithms & AI
 
 
-  ## Author
+  ## Authors
  
- | [<img src="https://avatars.githubusercontent.com/u/80687429?v=4" width=115><br><sub>Jessica Fernanda</sub>](https://github.com/nandajfa) |
- | :---: |
+
+ 
+ | [<img src="https://avatars.githubusercontent.com/u/80687429?v=4" width=115><br><sub>Jessica Fernanda</sub>](https://github.com/nandajfa) |  [<img src="" width=115><br><sub>Emerson Santana</sub>](https://github.com/D4rkSantana) |  
+| :---: | :---: | 
+ 
+ 
  
  [![Linkedin Badge](https://img.shields.io/badge/-Jessica-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessica-fernanda-106651205)](https://www.linkedin.com/in/jessica-fernanda-106651205) 
 [![Gmail Badge](https://img.shields.io/badge/-nanda.jfa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nanda.jfa@gmail.com)](mailto:nanda.jfa@gmail.com)
+
+
+
+
+
 
 
 </div>
