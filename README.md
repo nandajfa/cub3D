@@ -1,5 +1,5 @@
 <h1 align="center">
-	42cursus' Cub3D
+	<img alt="badge cub3D" src="./cub3d_dark.svg" />
  </h1>
  
  <div align="center">
