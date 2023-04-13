@@ -37,7 +37,7 @@ You're sections headers will be used to reference location of destination.
 ### Examples
 
 <div align="center">
-<img src="img/cub.PNG" width="400">
+<img src="img/cub.PNG" width="310">
 <img src="img/cub2.PNG" width="400">
 </div>
 
